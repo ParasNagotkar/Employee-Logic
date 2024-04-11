@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Paras",
+    "address": "Navghar Road",
+    "designation": ".Net Developer"
+  },
+  {
+    "id": "2",
+    "name": "John",
+    "address": "Cabin Road",
+    "designation": "Java"
+  },
+  {
+    "id": "3",
+    "name": "Rajesh",
+    "address": "grant Road",
+    "designation": "Angular"
+  },
+  {
+    "id": "4",
+    "name": "Vivek",
+    "address": "Road",
+    "designation": "node.js"
+  }
+]
